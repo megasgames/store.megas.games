@@ -1,0 +1,1 @@
+"use strict";exports.id=8271,exports.ids=[8271],exports.modules={8271:(r,t,e)=>{e.r(t),e.d(t,{default:()=>d});let d=(0,e(5347).createProxy)(String.raw`/home/ubuntu/builds/1729984912402/src/fragments/product-card/ProductCardOne.tsx#default`)}};

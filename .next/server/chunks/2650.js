@@ -1,0 +1,1 @@
+"use strict";exports.id=2650,exports.ids=[2650],exports.modules={2650:(e,t,r)=>{r.r(t),r.d(t,{default:()=>s});let s=(0,r(5347).createProxy)(String.raw`/home/ubuntu/builds/1729984912402/src/fragments/faq/FaqThree.tsx#default`)}};

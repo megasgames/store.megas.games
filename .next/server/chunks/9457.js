@@ -1,0 +1,1 @@
+"use strict";exports.id=9457,exports.ids=[9457],exports.modules={9457:(e,r,t)=>{t.r(r),t.d(r,{default:()=>s});let s=(0,t(5347).createProxy)(String.raw`/home/ubuntu/builds/1729984912402/src/fragments/banner/BannerFour.tsx#default`)}};

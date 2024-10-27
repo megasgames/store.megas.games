@@ -1,0 +1,1 @@
+"use strict";exports.id=1826,exports.ids=[1826],exports.modules={1826:(e,t,s)=>{s.r(t),s.d(t,{default:()=>r});let r=(0,s(5347).createProxy)(String.raw`/home/ubuntu/builds/1729984912402/src/fragments/basket-modal/BasketModalOne.tsx#default`)}};
